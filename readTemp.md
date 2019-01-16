@@ -27,6 +27,8 @@
 
 
 
+
+
 *The challenge is to find a democratic winner among these three options. This means either offering voters all three choices, and deciding how to measure their preferences, or dropping one of the three options and offering a binary choice between the other two.*
 
 >democratic 民主的
