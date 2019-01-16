@@ -1,4 +1,6 @@
-### *The dangerous imperfections of a three-way vote*
+### The dangerous imperfections of a three-way vote
+
+[链接](https://www.economist.com/open-future/2019/01/15/the-dangerous-imperfections-of-a-three-way-vote)
 
 *A great national decision shouldn’t depend on voters applying game theory, says Peter Kellner*
 
@@ -31,11 +33,11 @@
 
 *The challenge is to find a democratic winner among these three options. This means either offering voters all three choices, and deciding how to measure their preferences, or dropping one of the three options and offering a binary choice between the other two.*
 
->democratic 民主的
+> democratic 民主的
 >
->preferences 偏好 喜好
+> preferences 偏好 喜好
 >
->either or 要么 要么
+> either or 要么 要么
 
 *Let’s start with the three-option route—or rather, routes. All three could be offered on the same ballot paper. We would then have what’s known as an Alternative Vote referendum (the very system we rejected eight years ago for electing members to the House of Commons). Voters would be invited to state both their first and second preferences. If one of the options receives more than 50% of first preferences, the contest is over. But if none reaches the 50% mark, the least popular option is eliminated. Its supporters’ second preferences then come into play.*
 
@@ -91,11 +93,11 @@ This is all wonderful stuff for games theorists, but it’s not obvious that a g
 
 Hence, there is no perfect way of asking voters to choose among three options. But if we are to have a binary referendum, one of the three options—Remain, Compromise or No Deal—must be left off the ballot paper. Which?
 
-\* “Remain”, on the grounds that the UK has voted to leave, and the issue now is simply to decide what kind of leave—even though polls find consistently that “Remain” is currently by far the most popular of the three options?
+“Remain”, on the grounds that the UK has voted to leave, and the issue now is simply to decide what kind of leave—even though polls find consistently that “Remain” is currently by far the most popular of the three options?
 
-\* “Compromise”, on the grounds that it is the least popular option among voters and cannot muster a majority in Parliament, even though most government ministers and business leaders think it is the least bad way of implementing Brexit?
+“Compromise”, on the grounds that it is the least popular option among voters and cannot muster a majority in Parliament, even though most government ministers and business leaders think it is the least bad way of implementing Brexit?
 
-\* “No Deal”, because most ministers and business leaders, along with the Bank of England and a large majority of economists, warn of the extreme perils of this outcome, even though it is arguably the only way the keep the 2016 referendum promise to “take back control”?
+“No Deal”, because most ministers and business leaders, along with the Bank of England and a large majority of economists, warn of the extreme perils of this outcome, even though it is arguably the only way the keep the 2016 referendum promise to “take back control”?
 
 There is no objectively “right” answer. Perhaps the best way forward is for Members of Parliament to use their judgment. A large majority oppose a No-Deal Brexit, fearing it would cripple Britain’s economy, society and public finances. They could feel they have a duty to prevent this—and that means voting for a “Remain v Compromise” referendum.
 
