@@ -13,9 +13,15 @@
 >
 > referendum  公民投票
 >
-> jumble   杂乱的一堆     conventionally    按照惯例，照常套
+> peep into  窥视
 >
-> distinct  明显的，清楚的;   卓越的    outcome 结果
+> jumble   杂乱的一堆     
+>
+> conventionally    按照惯例，照常套
+>
+> distinct  明显的，清楚的;   卓越的  
+>
+> outcome 结果
 
 *First, the United Kingdom could leave the European Union without a deal. Second, there could be some compromise arrangement, such as the Withdrawal Agreement negotiated between Theresa May’s government and the other 27 EU member states. Third, the UK could remain a member of the EU after all. (In order not to make the problem even more complex, you can consider other possible arrangements, such as “Norway plus”, under the general heading of “compromise”.)*
 
@@ -83,22 +89,62 @@
 
 By the same token, voters who plump for Leave in stage one will not know what Leave actually entails. There are likely to be people who want a compromise deal with the EU, but fear crashing out without a deal. Should they vote Leave and risk a catastrophic decision at stage two—or vote Remain in order to avert disaster, even though it’s not their first choice? And what about those who want a “pure” exit, but see no point in a compromise that requires Britain to obey EU rules but with no say in them?
 
+> plump for 投票选出
 >
+>entail 意味着
 >
+>catastrophic   灾难性的
 >
+>avert  避免
 
 
 
-This is all wonderful stuff for games theorists, but it’s not obvious that a great national decision should depend on the extent to which millions of voters apply game theory to the way they vote.
+This is all wonderful **stuff** for games theorists, but it’s not **obvious** that a great national decision should depend on the **extent** to which millions of voters apply game theory to the way they vote.
 
 Hence, there is no perfect way of asking voters to choose among three options. But if we are to have a binary referendum, one of the three options—Remain, Compromise or No Deal—must be left off the ballot paper. Which?
 
-“Remain”, on the grounds that the UK has voted to leave, and the issue now is simply to decide what kind of leave—even though polls find consistently that “Remain” is currently by far the most popular of the three options?
+“Remain”, on the **grounds** that the UK has voted to leave, and the issue now is simply to decide what kind of leave—even though **polls** find **consistently** that “Remain” is currently by far the most popular of the three options?
 
-“Compromise”, on the grounds that it is the least popular option among voters and cannot muster a majority in Parliament, even though most government ministers and business leaders think it is the least bad way of implementing Brexit?
+“Compromise”, on the grounds that it is the least popular option among voters and cannot **muster a majority** in **Parliament**, even though most government ministers and business leaders think it is the least bad way of implementing Brexit?
 
-“No Deal”, because most ministers and business leaders, along with the Bank of England and a large majority of economists, warn of the extreme perils of this outcome, even though it is arguably the only way the keep the 2016 referendum promise to “take back control”?
+>stuff  原料
+>
+>obvious  明显
+>
+>extent  程度
+>
+>Hence 因此
+>
+>grounds  理由
+>
+>polls  民意调查
+>
+>consistently 一贯地，坚持地，固守地;   总;  
+>
+>muster a majority  集和召集      多数 票数
+>
+>Parliament 国会议会
 
-There is no objectively “right” answer. Perhaps the best way forward is for Members of Parliament to use their judgment. A large majority oppose a No-Deal Brexit, fearing it would cripple Britain’s economy, society and public finances. They could feel they have a duty to prevent this—and that means voting for a “Remain v Compromise” referendum.
+“No Deal”, because most ministers and business leaders, **along with** the Bank of England and a large majority of economists, warn of the extreme **perils** of this outcome, even though it is arguably the only way the keep the 2016 referendum promise to “take back control”?
 
-And all of this leads to a clear, if paradoxical, conclusion. In charting the way ahead, we cannot escape the need for political leadership and careful deliberation. For direct democracy to succeed, we need representative democracy to succeed first.
+There is no **objectively** “right” answer. Perhaps the best way forward is for Members of Parliament to use their judgment. A large majority oppose a No-Deal Brexit, fearing it would **cripple** Britain’s economy, society and public finances. They could feel they have a duty to prevent this—and that means voting for a “Remain v Compromise” referendum.
+
+And all of this leads to a clear, if paradoxical, conclusion. In charting the way ahead, we cannot escape the need for **political** leadership and careful **deliberation**. For direct democracy to succeed, we need **representative democracy** to succeed first.
+
+>along with  连同
+>
+>peril 极大危险
+>
+>arguably  可论证地;   可争辩的;  
+>
+>objectively 客观的
+>
+>cripple 严重削弱
+>
+>political  政治的
+>
+>deliberation 深思熟虑
+>
+>democracy  民主 
+>
+>representative  代表
