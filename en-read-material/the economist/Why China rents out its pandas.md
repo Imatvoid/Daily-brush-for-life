@@ -1,6 +1,6 @@
 ### Why China rents out its pandas
 
-Panda diplomacy in action
+Panda **diplomacy** in action
 
 ![img](https://cdn.static-economist.com/sites/default/files/20190119_ASP503.jpg)
 
@@ -8,11 +8,46 @@ Panda diplomacy in action
 
 [link](https://www.economist.com/the-economist-explains/2019/01/18/why-china-rents-out-its-pandas)
 
-PANDAS: CUTE, popular and expensive. So expensive, in fact, that the Malaysian government has reportedly considered handing its two adult pandas back to China, the country from which all pandas originate. As part of an agreement made in 2014 by its then prime minister, Najib Razak, Malaysia must pay China $1m each year to rent the bears until 2024. The new Malaysian government, which took power in May 2018, has been reviewing the deal, and this month the leader, Mahathir Mohamad, had to refute ministerial claims that the pandas would be returned early. Why does Malaysia have to pay so much?
+PANDAS: CUTE, popular and expensive. So expensive, in fact, that the Malaysian government has reportedly considered **handing its two adult pandas back** to China, the country from which all pandas **originate** . As part of an agreement made in 2014 by its then **prime minister**, Najib Razak, Malaysia must pay China $1m each year to rent the bears until 2024. The new Malaysian government, which **took power** in May 2018, has been reviewing the **deal**, and this month the leader, Mahathir Mohamad, had to **refute** **ministerial** claims that the pandas would be returned early. Why does Malaysia have to pay so much?
+China has **offered** pandas as gifts since the seventh century, when Empress Wu sent two bears to Japan. The **tradition** **resurfaced** under Mao Zedong. Russia and North Korea were given pandas during the cold war, and America got a pair after President Nixon’s China trip in 1972. By giving its national animal to a foreign power, China is able to **emphasise** the closeness of **political ties**  . But as China has grown **increasingly** **capitalist** , pandas have become an economic tool as well. Instead of giving them away, in the 1980s China started loaning them for $50,000 per month, with the bears and any **offspring** remaining Chinese **property**. But the bears were not offered to just any country. Kathleen Buckingham and Paul Jepson of Oxford University found recent panda loans **coincided with** trade deals that China had signed in Scotland, Canada and France. They argue that pandas form a key part of *guanxi*–**reciprocal** relationships that can establish deeper and more trusting bonds between countries.
 
-China has offered pandas as gifts since the seventh century, when Empress Wu sent two bears to Japan. The tradition resurfaced under Mao Zedong. Russia and North Korea were given pandas during the cold war, and America got a pair after President Nixon’s China trip in 1972. By giving its national animal to a foreign power, China is able to emphasise the closeness of political ties. But as China has grown increasingly capitalist, pandas have become an economic tool as well. Instead of giving them away, in the 1980s China started loaning them for $50,000 per month, with the bears and any offspring remaining Chinese property. But the bears were not offered to just any country. Kathleen Buckingham and Paul Jepson of Oxford University found recent panda loans coincided with trade deals that China had signed in Scotland, Canada and France. They argue that pandas form a key part of *guanxi*–reciprocal relationships that can establish deeper and more trusting bonds between countries.
-
->  
+>  diplomacy  外交
+>
+>  Malaysian  马来西亚的 马来西亚人
+>
+>  hand back 交还
+>
+>  originate 起源 起源地
+>
+>  prime minister 首相
+>
+>   took power 上台
+>
+>  deal 交易
+>
+>  refute  驳斥
+>
+>  ministerial  部长级的
+>
+>  offer 提供 供应
+>
+>  tradition 传统
+>
+>  resurface 重新出现  浮出水面
+>
+>  emphasise  加强
+>
+>  political  ties 政治联系
+>
+>  increasingly capitalist 日益资本主义化
+>
+>  offspring  后代
+>
+>  property 财产 属性
+>
+>  coincide with 重合
+>
+>  reciprocal  相互的 
 
 
 
